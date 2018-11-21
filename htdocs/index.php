@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello new branch
-=======
-branch master
->>>>>>> master
+Master branch
